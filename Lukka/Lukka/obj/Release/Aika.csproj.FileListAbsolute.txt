@@ -1,0 +1,11 @@
+D:\Sandboxer\Lukka\Lukka\bin\Release\Aika.exe.config
+D:\Sandboxer\Lukka\Lukka\bin\Release\Aika.exe
+D:\Sandboxer\Lukka\Lukka\bin\Release\Aika.pdb
+D:\Sandboxer\Lukka\Lukka\bin\Release\DocumentFormat.OpenXml.dll
+D:\Sandboxer\Lukka\Lukka\bin\Release\DocumentFormat.OpenXml.xml
+D:\Sandboxer\Lukka\Lukka\obj\Release\Aika.InO.resources
+D:\Sandboxer\Lukka\Lukka\obj\Release\Aika.Properties.Resources.resources
+D:\Sandboxer\Lukka\Lukka\obj\Release\Aika.TSC.resources
+D:\Sandboxer\Lukka\Lukka\obj\Release\Aika.csproj.GenerateResource.Cache
+D:\Sandboxer\Lukka\Lukka\obj\Release\Aika.exe
+D:\Sandboxer\Lukka\Lukka\obj\Release\Aika.pdb

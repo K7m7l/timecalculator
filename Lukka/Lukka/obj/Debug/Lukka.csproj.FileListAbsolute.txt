@@ -1,0 +1,10 @@
+D:\Sandboxer\Lukka\Lukka\bin\Debug\Lukka.exe.config
+D:\Sandboxer\Lukka\Lukka\bin\Debug\Lukka.exe
+D:\Sandboxer\Lukka\Lukka\bin\Debug\Lukka.pdb
+D:\Sandboxer\Lukka\Lukka\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Sandboxer\Lukka\Lukka\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Sandboxer\Lukka\Lukka\obj\Debug\Lukka.InO.resources
+D:\Sandboxer\Lukka\Lukka\obj\Debug\Lukka.Properties.Resources.resources
+D:\Sandboxer\Lukka\Lukka\obj\Debug\Lukka.csproj.GenerateResource.Cache
+D:\Sandboxer\Lukka\Lukka\obj\Debug\Lukka.exe
+D:\Sandboxer\Lukka\Lukka\obj\Debug\Lukka.pdb
